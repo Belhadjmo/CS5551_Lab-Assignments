@@ -163,9 +163,6 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="472d61da-95b7-4fdd-9c89-9c7aa22c943a" name="Default" comment="" />
@@ -177,16 +174,16 @@
       <workItem from="1473962738475" duration="689000" />
       <workItem from="1473970003167" duration="2357000" />
       <workItem from="1474393532143" duration="6471000" />
-      <workItem from="1478899007241" duration="792000" />
+      <workItem from="1478899007241" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13595000" />
+    <option name="totallyTimeSpent" value="13531000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="740" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="740" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
